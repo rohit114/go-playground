@@ -1,0 +1,95 @@
+package main
+
+import (
+	"fmt"
+	mylib "go-playground/src"
+	"log"
+	"os"
+
+	"github.com/lpernett/godotenv"
+)
+
+func main() {
+	fmt.Println("Hello, World!")
+	err := godotenv.Load()
+	if err != nil {
+		log.Fatal("Error loading .env file")
+	}
+
+	db_url := os.Getenv("DATABASE_URL")
+	secret_key := os.Getenv("SECRET_KEY")
+	fmt.Println(db_url)
+	fmt.Println(secret_key)
+	mylib.ReadCSV("data.csv")
+	a := mylib.Add(10, 77)
+
+	fmt.Println("sum = ", a)
+	fmt.Println("AddNum", AddNum(33, 3))
+
+	// now do something with s3 or whatever
+}
+
+func AddNum(a, b int) int {
+	return a + b
+}
+
+
+
+// fmt.Println("Hello from Golang!")
+	// mylib.ReadEnv()
+	// fundamentals.ListPractice()
+	// matrix := [][]int{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}
+	// fundamentals.PrintMatrix(matrix)
+	//arr := []int{1, 2, 3, 4, 4}
+	//fundamentals.ReverseArray(&matrix[0], len(matrix[0]))
+	//println()
+	//fundamentals.PrintMatrix(matrix)
+
+	// fundamentals.SortingDemo()
+	// fundamentals.SortingDemo2()
+	// fundamentals.TrimByteDemo()
+	// fundamentals.TrimSringeDemo()
+	// fundamentals.TestExceptionHandle2()
+	// Generate a random integer between 0 and 100
+	// randomInt := rand.Intn(100) // Output: random number between 0 and 99
+	// fmt.Println(randomInt)
+
+	// Generate a random floating-point number between 0 and 1
+	// randomFloat := rand.Float64() // Output: random number between 0 and 1
+	// fmt.Println(randomFloat)
+
+	//fundamentals.PonitersDemo()
+	//fundamentals.FindFrequencyOfChars()
+	// fundamentals.PonitersDemoUsingShortHnad()
+	// fundamentals.PassingPointerToFunctionDemo()
+
+	// fundamentals.PointerToStructDemo()
+
+	// fundamentals.DoublePoninterDemo()
+	//fundamentals.ComparePonintersDemo()
+	//myconcurrencymodule.GoRoutinesDemo1()
+	//myconcurrencymodule.MultiGoroutinesDemo()
+
+	//myconcurrencymodule.ChannelDemo()
+	//myconcurrencymodule.BlockingSendReceiveDemo()
+	// rohitmodule.Hello()
+	// myconcurrencymodule.SelectChannelDemo()
+
+	// name := "  rohit kumar  "
+	// name = strings.TrimSpace(name)
+	// name = string(unicode.ToUpper(rune(name[0]))) + name[1:]
+	// fmt.Println("name:", name)
+	//fundamentals.CapitalizeStringDemo()
+	//fundamentals.FindFrequencyOfCharsInTheString("GeeksForGeeks")
+	//fmt.Println("anagram", fundamentals.IsAnagram2("apple", "elappst"))
+	// fmt.Println("anagram", fundamentals.IsAnagram("apple", "elapp"))
+	arr := []int{1, 1, 1, 2, 2, 3}
+	res := fundamentals.BinarySearch(arr, 0, len(arr)-1, 3)
+	fmt.Println(res)
+	// k := 3
+	// result := topKFrequent(arr, k)
+
+	// for _, val := range result {
+	// 	fmt.Println(val, " ")
+	// }
+

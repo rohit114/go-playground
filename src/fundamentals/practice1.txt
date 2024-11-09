@@ -1,0 +1,92 @@
+package main
+
+import (
+	"fmt"
+	mylib "go-playground/src"
+	data_type_collections "go-playground/src/fundamentals"
+)
+
+type person struct {
+	name string
+	age  int
+}
+
+// Defining a method with struct receiver
+func (p person) display() {
+	fmt.Println("Name:", p.name)
+	fmt.Println("Age:", p.age)
+}
+func main() {
+	fmt.Println("Hello, World!")
+	mylib.ReadEnv()
+	sum := mylib.Add(3, 4)
+	print(sum)
+	data_type_collections.StringPractice1()
+	data_type_collections.SwitchCase()
+	data_type_collections.SwitchCase2()
+	data_type_collections.SwitchCase3()
+	// data_type_collections.MapsPractice()
+	// data_type_collections.ListPractice()
+
+	// Creating an instance of the struct
+	aa := person{name: "a", age: 25}
+
+	// Calling the method
+	aa.display()
+
+	fmt.Println(data_type_collections.VeriadicSumFun(3, 4))
+	fmt.Println(data_type_collections.VeriadicSumFun(3, 4, 5))
+
+	greet := func() string {
+		return "Good Morning!!"
+	}
+	fmt.Println(greet())
+
+	num_list := []int{1, 2, 3, 4, 5, 6}
+	str_list := []string{"a:", "b", "c", "d"}
+	println("Befor:")
+	for _, value := range num_list {
+		print(value, " ")
+
+	}
+	println()
+	var start int = 0
+	var end int = len(num_list) - 1
+	for start < end {
+		data_type_collections.SwapInt(&num_list[start], &num_list[end])
+		start++
+		end--
+	}
+	println("After:")
+	for _, value := range num_list {
+		print(value, " ")
+
+	}
+	start = 0
+	end = len(str_list) - 1
+	for start < end {
+		data_type_collections.SwapChar(&str_list[start], &str_list[end])
+		start++
+		end--
+	}
+	println()
+	for _, value := range str_list {
+		print(value, " ")
+
+	}
+	println()
+	defer myDeferefun1()
+	defer myDeferefun2()
+
+}
+
+func init() {
+	fmt.Println("Hello from INIT func")
+}
+
+func myDeferefun1() {
+	fmt.Println("Hello from myDeferefun111")
+}
+func myDeferefun2() {
+	fmt.Println("Hello from myDeferefun222")
+}

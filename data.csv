@@ -1,0 +1,101 @@
+app_id,name,release_date,required_age,price,dlc_count,about_the_game,supported_languages,windows,mac,linux,positive,negative,score_rank,developers,publishers,categories,genres,tags
+FHM_68421,GTA,2019-11-02,0,16.03,0,Sample game description.,['English'],FALSE,TRUE,TRUE,927,250,5,EA,Sample Pub,Single-player,Casual,Indie
+VLO_70843,Kart race,2002-07-06,0,7.65,2,Sample game description.,['German'],TRUE,TRUE,FALSE,486,112,3,EA,Sample Pub,Multi-player,Arcade,Action
+EDQ_48538,God Of war,2023-03-27,18,6.2,0,Sample game description.,['French'],TRUE,TRUE,FALSE,329,442,3,Rockstar,Sample Pub,Multi-player,Casual,Indie
+BQJ_35832,God Of war,2014-11-30,13,4.46,0,Sample game description.,['French'],FALSE,TRUE,FALSE,603,348,8,,Sample Pub,Multi-player,Indie,Strategy
+ZYC_57053,GTA,2012-09-23,0,3.34,2,Sample game description.,['German'],TRUE,FALSE,FALSE,64,121,0,,Sample Pub,Single-player,Indie,Strategy
+WWE_93083,Alien Strike,2023-06-10,16,12.12,1,Sample game description.,['Spanish'],FALSE,TRUE,TRUE,209,71,1,EA,Sample Pub,Single-player,Indie,Action
+FUT_95711,Space Wars,2010-05-02,0,11.99,2,Sample game description.,['German'],FALSE,TRUE,TRUE,604,133,1,UBI Soft,Sample Pub,Multi-player,Indie,Action
+BWK_45914,Alien Strike,2016-08-16,16,18.35,2,Sample game description.,['English'],FALSE,TRUE,FALSE,999,4,1,,Sample Pub,Multi-player,Sports,Action
+RKK_17948,Kart race,2018-11-08,13,10.32,2,Sample game description.,['German'],TRUE,FALSE,FALSE,749,18,7,EA,Sample Pub,Single-player,Arcade,Action
+LUK_20298,Adventure Game,2006-12-07,0,17.04,1,Sample game description.,['Spanish'],FALSE,TRUE,TRUE,948,182,5,EA,Sample Pub,Single-player,Indie,Action
+OWB_14269,Alien Strike,2012-01-26,13,6.27,1,Sample game description.,['English'],TRUE,FALSE,FALSE,782,352,2,UBI Soft,Sample Pub,Multi-player,Casual,Strategy
+FDZ_13020,Space Wars,2020-08-09,0,11.45,0,Sample game description.,['German'],FALSE,TRUE,TRUE,572,322,10,,Sample Pub,Single-player,Sports,Strategy
+NTD_43227,Mario,2019-06-06,18,13.1,2,Sample game description.,['German'],FALSE,FALSE,FALSE,581,175,3,UBI Soft,Sample Pub,Multi-player,Sports,Action
+CKC_38251,Adventure Game,2021-12-02,18,19.02,0,Sample game description.,['English'],TRUE,TRUE,FALSE,591,118,6,UBI Soft,Sample Pub,Single-player,Indie,Indie
+IVD_63848,Mario,2015-10-08,16,10.03,0,Sample game description.,['Spanish'],TRUE,TRUE,TRUE,621,363,3,UBI Soft,Sample Pub,Multi-player,Arcade,Strategy
+MQR_37436,Kart race,2004-01-15,13,1.13,0,Sample game description.,['German'],TRUE,FALSE,FALSE,267,212,0,Rockstar,Sample Pub,Multi-player,Sports,Indie
+GJV_38370,Kart race,2003-04-20,0,10.52,0,Sample game description.,['English'],TRUE,FALSE,TRUE,324,26,5,EA,Sample Pub,Multi-player,Adventure,Action
+OMO_72758,NFS Race,2001-12-06,0,10.24,0,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,225,83,8,EA,Sample Pub,Single-player,Indie,Strategy
+VPB_14709,Adventure Game,2002-05-24,13,5.94,1,Sample game description.,['German'],FALSE,TRUE,FALSE,245,17,5,,Sample Pub,Single-player,Sports,Indie
+LIX_62788,Galactic Bowling,2011-08-15,18,6.05,2,Sample game description.,['French'],TRUE,FALSE,FALSE,615,334,9,Rockstar,Sample Pub,Multi-player,Adventure,Indie
+ENY_12255,Adventure Game,2002-08-09,18,4.81,0,Sample game description.,['French'],TRUE,TRUE,TRUE,236,356,10,,Sample Pub,Multi-player,Arcade,Indie
+ABA_72007,Alien Strike,2011-01-11,0,11.98,2,Sample game description.,['English'],TRUE,FALSE,FALSE,310,359,10,,Sample Pub,Multi-player,Casual,Strategy
+YLC_63299,Space Wars,2010-09-26,16,5.77,2,Sample game description.,['English'],TRUE,FALSE,TRUE,929,182,8,EA,Sample Pub,Single-player,Indie,Indie
+BDT_95917,God Of war,2007-12-04,13,2.8,2,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,180,271,9,EA,Sample Pub,Multi-player,Indie,Strategy
+TYF_57183,Alien Strike,2021-03-19,18,7.35,2,Sample game description.,['English'],FALSE,TRUE,FALSE,290,308,8,UBI Soft,Sample Pub,Multi-player,Indie,Action
+VEI_15345,Space Wars,2007-10-31,0,1.15,0,Sample game description.,['Spanish'],TRUE,FALSE,FALSE,991,203,7,,Sample Pub,Single-player,Sports,Action
+YUA_69681,GTA,2012-11-20,0,0.83,2,Sample game description.,['French'],FALSE,FALSE,FALSE,504,265,2,,Sample Pub,Single-player,Sports,Strategy
+NYU_53780,Alien Strike,2004-10-15,0,16.15,0,Sample game description.,['German'],TRUE,FALSE,TRUE,377,12,8,,Sample Pub,Multi-player,Adventure,Action
+JVO_17445,God Of war,2007-07-31,13,11.16,1,Sample game description.,['Spanish'],TRUE,TRUE,TRUE,620,48,8,EA,Sample Pub,Multi-player,Arcade,Strategy
+PDQ_73984,Kart race,2024-08-20,18,1.43,1,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,609,32,2,EA,Sample Pub,Single-player,Casual,Indie
+HSM_38216,God Of war,2024-08-29,18,15.02,2,Sample game description.,['French'],FALSE,FALSE,TRUE,626,203,9,UBI Soft,Sample Pub,Multi-player,Casual,Indie
+UKS_73079,Kart race,2007-04-06,16,4.68,0,Sample game description.,['Spanish'],TRUE,FALSE,TRUE,552,459,6,EA,Sample Pub,Single-player,Casual,Action
+PDT_89429,NFS Race,2015-03-21,13,2.21,1,Sample game description.,['German'],FALSE,TRUE,TRUE,162,271,0,Rockstar,Sample Pub,Multi-player,Indie,Action
+CSN_69893,Alien Strike,2004-07-24,16,1.02,0,Sample game description.,['French'],TRUE,TRUE,FALSE,930,421,1,Rockstar,Sample Pub,Single-player,Adventure,Action
+EXZ_67113,Alien Strike,2019-01-01,16,0.37,1,Sample game description.,['English'],FALSE,TRUE,FALSE,467,261,5,Rockstar,Sample Pub,Multi-player,Adventure,Indie
+EDS_53701,GTA,2009-12-06,0,10.64,0,Sample game description.,['German'],TRUE,FALSE,TRUE,439,401,7,EA,Sample Pub,Multi-player,Indie,Strategy
+UNX_87712,Kart race,2004-05-02,18,0.81,0,Sample game description.,['Spanish'],FALSE,TRUE,TRUE,362,140,7,EA,Sample Pub,Single-player,Adventure,Strategy
+DVY_89660,Mario,2019-06-15,13,3.55,0,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,907,259,2,EA,Sample Pub,Single-player,Sports,Indie
+RPE_47978,God Of war,2003-05-07,16,12.38,2,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,342,176,2,EA,Sample Pub,Multi-player,Casual,Strategy
+NVX_29156,Kart race,2001-04-07,16,13.27,0,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,708,293,0,EA,Sample Pub,Single-player,Adventure,Strategy
+STT_74878,Space Wars,2019-04-20,0,14.04,2,Sample game description.,['German'],TRUE,FALSE,FALSE,173,122,7,Rockstar,Sample Pub,Single-player,Arcade,Strategy
+TNB_87081,Alien Strike,2017-10-07,16,5.36,1,Sample game description.,['German'],FALSE,TRUE,TRUE,25,177,2,,Sample Pub,Single-player,Indie,Action
+FHA_75709,Space Wars,2014-10-21,13,12.43,2,Sample game description.,['Spanish'],FALSE,FALSE,TRUE,213,156,5,EA,Sample Pub,Multi-player,Casual,Action
+NMI_24095,God Of war,2010-01-03,0,16.47,0,Sample game description.,['English'],TRUE,TRUE,FALSE,643,24,10,UBI Soft,Sample Pub,Single-player,Adventure,Action
+CNE_95965,Alien Strike,2018-05-08,13,2.73,2,Sample game description.,['German'],FALSE,FALSE,TRUE,717,146,7,Rockstar,Sample Pub,Single-player,Arcade,Indie
+HDO_56635,NFS Race,2001-02-11,16,10.22,2,Sample game description.,['Spanish'],FALSE,FALSE,FALSE,869,292,8,,Sample Pub,Single-player,Casual,Action
+NAN_89292,GTA,2015-11-06,0,13.28,0,Sample game description.,['Spanish'],FALSE,FALSE,TRUE,972,327,3,Rockstar,Sample Pub,Single-player,Casual,Strategy
+JAP_99852,GTA,2019-02-07,0,1.0,1,Sample game description.,['German'],TRUE,TRUE,FALSE,741,337,0,,Sample Pub,Single-player,Indie,Strategy
+GSI_86197,Kart race,2011-07-19,0,6.83,2,Sample game description.,['French'],TRUE,FALSE,FALSE,601,228,0,EA,Sample Pub,Multi-player,Adventure,Action
+GPV_48052,GTA,2016-08-14,13,9.15,2,Sample game description.,['French'],FALSE,FALSE,FALSE,232,123,9,Rockstar,Sample Pub,Multi-player,Casual,Action
+DKU_18923,Galactic Bowling,2023-11-21,13,4.69,2,Sample game description.,['English'],FALSE,FALSE,TRUE,880,240,8,,Sample Pub,Single-player,Sports,Strategy
+NLF_41858,GTA,2002-02-03,18,0.69,2,Sample game description.,['German'],TRUE,FALSE,FALSE,667,408,10,Rockstar,Sample Pub,Multi-player,Indie,Indie
+IUD_52267,Space Wars,2003-11-28,0,8.37,1,Sample game description.,['Spanish'],FALSE,TRUE,TRUE,215,224,9,,Sample Pub,Single-player,Indie,Action
+CZB_31038,God Of war,2014-08-02,18,5.21,2,Sample game description.,['German'],TRUE,TRUE,TRUE,517,146,6,UBI Soft,Sample Pub,Single-player,Sports,Action
+IES_92464,Kart race,2024-01-06,13,9.28,2,Sample game description.,['French'],TRUE,TRUE,FALSE,874,220,3,UBI Soft,Sample Pub,Multi-player,Arcade,Strategy
+DFF_93457,Space Wars,2017-01-23,13,6.39,1,Sample game description.,['English'],TRUE,TRUE,FALSE,537,372,8,EA,Sample Pub,Multi-player,Adventure,Strategy
+XXH_38574,God Of war,2015-04-29,18,12.27,1,Sample game description.,['German'],FALSE,TRUE,FALSE,539,324,5,,Sample Pub,Single-player,Sports,Strategy
+CFF_60496,GTA,2011-02-16,13,8.74,0,Sample game description.,['English'],TRUE,FALSE,FALSE,954,415,3,Rockstar,Sample Pub,Single-player,Sports,Action
+EOZ_61384,Space Wars,2020-10-24,0,9.29,2,Sample game description.,['Spanish'],FALSE,TRUE,FALSE,102,156,5,,Sample Pub,Multi-player,Indie,Strategy
+PRB_15481,Kart race,2021-11-20,13,1.98,0,Sample game description.,['French'],FALSE,FALSE,TRUE,778,210,9,EA,Sample Pub,Single-player,Sports,Indie
+KOL_64434,Adventure Game,2007-05-10,18,18.71,2,Sample game description.,['English'],TRUE,FALSE,FALSE,119,237,4,Rockstar,Sample Pub,Multi-player,Adventure,Action
+BMK_13443,God Of war,2016-07-22,18,5.97,0,Sample game description.,['Spanish'],TRUE,FALSE,FALSE,867,478,10,,Sample Pub,Multi-player,Casual,Indie
+BFU_88627,NFS Race,2016-12-01,0,12.75,1,Sample game description.,['French'],TRUE,TRUE,TRUE,583,89,2,EA,Sample Pub,Single-player,Arcade,Action
+RYQ_11547,Space Wars,2006-09-14,18,2.3,1,Sample game description.,['French'],TRUE,FALSE,FALSE,341,395,10,EA,Sample Pub,Single-player,Arcade,Action
+ZJJ_97428,Space Wars,2007-07-13,13,5.15,2,Sample game description.,['English'],TRUE,TRUE,TRUE,934,124,3,UBI Soft,Sample Pub,Multi-player,Adventure,Strategy
+VQS_81572,Mario,2017-06-16,16,10.96,0,Sample game description.,['English'],FALSE,FALSE,TRUE,663,265,10,EA,Sample Pub,Multi-player,Casual,Action
+WGP_56890,Kart race,2000-06-09,16,8.93,1,Sample game description.,['Spanish'],FALSE,FALSE,TRUE,559,424,8,EA,Sample Pub,Multi-player,Adventure,Strategy
+DFT_99920,Kart race,2014-10-01,16,5.84,0,Sample game description.,['French'],TRUE,FALSE,FALSE,548,126,0,,Sample Pub,Multi-player,Adventure,Strategy
+WNP_64761,Space Wars,2014-02-11,18,13.03,2,Sample game description.,['German'],TRUE,TRUE,FALSE,312,166,4,Rockstar,Sample Pub,Multi-player,Casual,Action
+ZYB_96919,GTA,2015-09-11,0,18.71,1,Sample game description.,['Spanish'],FALSE,TRUE,FALSE,841,500,10,,Sample Pub,Multi-player,Casual,Strategy
+DQR_83805,Space Wars,2003-02-23,0,17.29,2,Sample game description.,['French'],FALSE,FALSE,FALSE,351,418,6,,Sample Pub,Single-player,Sports,Action
+BNU_79810,Mario,2009-02-28,18,15.4,2,Sample game description.,['Spanish'],TRUE,FALSE,TRUE,161,379,2,Rockstar,Sample Pub,Multi-player,Casual,Strategy
+YJE_10289,NFS Race,2003-01-09,18,13.78,0,Sample game description.,['German'],FALSE,FALSE,FALSE,554,75,3,UBI Soft,Sample Pub,Multi-player,Sports,Indie
+CHD_15922,Mario,2015-11-06,18,2.92,1,Sample game description.,['Spanish'],TRUE,FALSE,TRUE,40,216,5,Rockstar,Sample Pub,Single-player,Indie,Strategy
+HEY_52261,Adventure Game,2022-03-26,13,2.18,1,Sample game description.,['German'],TRUE,TRUE,FALSE,752,3,10,Rockstar,Sample Pub,Multi-player,Casual,Strategy
+YBC_34075,Mario,2017-11-02,18,17.13,2,Sample game description.,['Spanish'],FALSE,FALSE,TRUE,486,489,6,EA,Sample Pub,Single-player,Adventure,Action
+WER_29539,Alien Strike,2002-12-11,18,7.27,2,Sample game description.,['English'],TRUE,TRUE,TRUE,369,142,2,,Sample Pub,Single-player,Casual,Action
+YCQ_54162,Adventure Game,2024-08-23,16,14.85,2,Sample game description.,['Spanish'],FALSE,TRUE,FALSE,291,226,8,Rockstar,Sample Pub,Single-player,Casual,Indie
+TTH_45012,NFS Race,2022-03-18,0,5.55,2,Sample game description.,['German'],FALSE,TRUE,TRUE,627,204,7,Rockstar,Sample Pub,Single-player,Adventure,Strategy
+RDW_60447,NFS Race,2018-03-05,0,9.53,0,Sample game description.,['Spanish'],FALSE,FALSE,FALSE,486,464,0,EA,Sample Pub,Single-player,Casual,Strategy
+GKV_71769,Alien Strike,2011-11-29,0,9.58,2,Sample game description.,['Spanish'],TRUE,TRUE,FALSE,352,122,1,UBI Soft,Sample Pub,Multi-player,Casual,Action
+IUX_49003,Alien Strike,2023-12-04,16,8.45,1,Sample game description.,['English'],FALSE,FALSE,TRUE,585,127,9,EA,Sample Pub,Single-player,Sports,Action
+EHQ_62993,GTA,2007-12-26,13,19.76,1,Sample game description.,['German'],TRUE,FALSE,TRUE,639,126,10,,Sample Pub,Single-player,Casual,Indie
+QCT_17096,GTA,2010-04-20,0,8.34,1,Sample game description.,['English'],FALSE,FALSE,FALSE,894,389,0,UBI Soft,Sample Pub,Multi-player,Sports,Indie
+RDM_79652,God Of war,2018-03-01,13,4.24,2,Sample game description.,['Spanish'],FALSE,TRUE,FALSE,871,486,6,EA,Sample Pub,Multi-player,Arcade,Strategy
+MDC_74237,God Of war,2009-12-27,18,2.42,2,Sample game description.,['English'],TRUE,TRUE,TRUE,276,56,6,EA,Sample Pub,Multi-player,Adventure,Strategy
+RYV_38424,Space Wars,2000-02-25,18,15.95,1,Sample game description.,['French'],TRUE,FALSE,TRUE,175,410,10,Rockstar,Sample Pub,Multi-player,Indie,Action
+PYI_89331,GTA,2024-08-26,13,2.79,0,Sample game description.,['French'],TRUE,TRUE,FALSE,312,334,8,EA,Sample Pub,Multi-player,Adventure,Action
+GCG_56833,NFS Race,2005-09-01,0,1.49,0,Sample game description.,['English'],TRUE,FALSE,TRUE,225,423,4,Rockstar,Sample Pub,Single-player,Arcade,Action
+HVH_62890,NFS Race,2001-10-19,18,9.24,0,Sample game description.,['English'],TRUE,TRUE,TRUE,836,324,6,,Sample Pub,Multi-player,Sports,Strategy
+NCJ_81703,Adventure Game,2012-05-17,13,13.87,2,Sample game description.,['German'],FALSE,TRUE,FALSE,250,238,9,EA,Sample Pub,Single-player,Adventure,Action
+VQV_94593,God Of war,2018-11-20,0,17.03,0,Sample game description.,['English'],TRUE,TRUE,TRUE,726,230,7,UBI Soft,Sample Pub,Single-player,Sports,Strategy
+YZV_97102,Adventure Game,2019-07-18,16,2.36,1,Sample game description.,['English'],FALSE,FALSE,TRUE,709,25,5,,Sample Pub,Multi-player,Arcade,Strategy
+NSO_51774,Adventure Game,2006-08-23,13,19.14,0,Sample game description.,['English'],TRUE,FALSE,TRUE,438,436,2,EA,Sample Pub,Multi-player,Arcade,Action
+RKW_48704,God Of war,2015-07-27,13,8.34,1,Sample game description.,['German'],FALSE,FALSE,FALSE,710,124,9,EA,Sample Pub,Single-player,Arcade,Strategy
+UPA_44289,Galactic Bowling,2007-03-12,0,8.66,0,Sample game description.,['German'],TRUE,TRUE,TRUE,624,484,3,EA,Sample Pub,Single-player,Adventure,Action
+UUK_39638,Mario,2018-10-31,0,3.09,0,Sample game description.,['French'],TRUE,TRUE,TRUE,427,399,10,EA,Sample Pub,Single-player,Sports,Strategy
+CFN_42050,Adventure Game,2007-11-04,13,13.84,2,Sample game description.,['Spanish'],FALSE,TRUE,TRUE,160,133,0,,Sample Pub,Multi-player,Adventure,Indie
+ROO_17072,Adventure Game,2021-12-28,13,9.63,0,Sample game description.,['German'],TRUE,FALSE,FALSE,471,187,5,EA,Sample Pub,Multi-player,Adventure,Strategy
+KZN_54877,God Of war,2018-03-30,16,6.87,1,Sample game description.,['Spanish'],TRUE,FALSE,FALSE,723,447,7,EA,Sample Pub,Multi-player,Arcade,Strategy

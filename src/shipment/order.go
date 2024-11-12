@@ -7,9 +7,9 @@ type Order struct {
 }
 
 type OrderObject struct {
-	Id    int   `json:"Id"`   // Capitalized field names
-	Item  any   `json:"Item"` // Capitalized field names
-	State State `json:"State"`
+	Id    int
+	Item  any
+	State State
 }
 
 // Getter methods to access private fields
